@@ -2,7 +2,7 @@
 
 This study is currently undergoing peer review. All analytical code will be made available here upon publication or at the request of reviewers prior to. 
 
-**Authors:** Collin Sakal, PhD [1]; Wenxin Xu, MSc [2], Wei Zhang, MSc [2], Xinyue Li, PhD [2]
+**Authors:** Collin Sakal, PhD [1]; Wenxin Xu, MSc [2]; Wei Zhang, MSc [2]; Xinyue Li, PhD [2]
 
 **Affiliations**
 
